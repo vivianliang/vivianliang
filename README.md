@@ -17,3 +17,5 @@ My name is Vivian. I'm an engineer and carpenter at [eggybytes](https://github.c
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white)
+![Simpson](https://img.shields.io/badge/-Simpson%20Strong%20Tie-ff5308?style=flat&logoColor=white)
+![Makita](https://img.shields.io/badge/-Makita-fe0000?style=flat&logoColor=black)
