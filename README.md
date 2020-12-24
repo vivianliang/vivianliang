@@ -1,23 +1,6 @@
-### 👋
-
-<!--
-**vivianliang/vivianliang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## About me
 
-My name is Vivian. I'm an engineer at [eggybytes](https://github.com/eggybytes). We talk about computers at [eggybits.com](eggybits.com/) 🍳
+My name is Vivian. I'm an engineer and carpenter at [eggybytes](https://github.com/eggybytes). We talk about computers at [eggybits.com](eggybits.com/) 🍳
 
 ## Current Technology
 
@@ -33,3 +16,4 @@ My name is Vivian. I'm an engineer at [eggybytes](https://github.com/eggybytes).
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white)
