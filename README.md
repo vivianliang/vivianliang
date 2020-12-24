@@ -1,6 +1,6 @@
 ## About me
 
-My name is Vivian. I'm an engineer and carpenter at [eggybytes](https://github.com/eggybytes). We talk about computers at [eggybits.com](eggybits.com/) 🍳. Secret of the day: we own the means of production.
+My name is Vivian. I'm an engineer and carpenter at [eggybytes](https://github.com/eggybytes). We talk about computers at [eggybits.com](eggybits.com/) 🍳. Secret of the day: engineers own the means of production.
 
 ## Current Technology
 
