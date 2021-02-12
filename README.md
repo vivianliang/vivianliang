@@ -1,6 +1,6 @@
 ## About me
 
-I'm an engineer and carpenter at [eggybytes](https://www.eggybytes.com). We talk about computers at [eggybits.com](https://www.eggybits.com/) 🍳. Secret of the day: we own the means of production.
+I'm an engineer and carpenter at [eggybytes](https://github.com/eggybytes). We talk about computers at [eggybits.com](https://www.eggybits.com/) 🍳. Secret of the day: we own the means of production.
 
 ## Current Technology
 
